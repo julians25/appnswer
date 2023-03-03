@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837278509964",
+    "firebase_url": "https://appnswer-default-rtdb.firebaseio.com",
+    "project_id": "appnswer",
+    "storage_bucket": "appnswer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837278509964:android:ad8f29d7030571907044a9",
+        "android_client_info": {
+          "package_name": "com.appnswer.j"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837278509964-tojfdm7tm13n13506jqn1a2ldlknudk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbj-gcP1cTlZ2QSQA7zy_6vGeXPFR0scM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837278509964-tojfdm7tm13n13506jqn1a2ldlknudk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
